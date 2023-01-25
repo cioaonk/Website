@@ -15,7 +15,7 @@ Want to get in touch? You can reach me via:
 
 twitter // @icook 
 
-Mastodon // [ohCoz@infosec.exchange](https://infosec.exchange/@ohCoz)
+Mastodon // <a rel="me" href="https://infosec.exchange/@ohCoz">@ohCoz</a>
 
 Email // cyberiancook@gmail.com 
 
