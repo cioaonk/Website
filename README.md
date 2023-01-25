@@ -4,7 +4,7 @@ Welcome! I am a cybersecurity student first and foremoest. I am passionate in mo
 
 Checkout my: 
 <ol>
-  <li> [Presentations](github.com/cioaonk/Presentations) </li>
+  <li> <a href="https://github.com/cioaonk/Presentations"> Presentations </a> </li>
   <li> Writeups </li>
   <li> General Articles </li>
   <li> Tools </li>
@@ -13,9 +13,9 @@ Checkout my:
 
 Want to get in touch? You can reach me via:
 
-twitter // @icook //
+twitter // @icook 
 
-Mastodon // ohCoz@infosec.exchange
+Mastodon // [ohCoz@infosec.exchange](https://infosec.exchange/@ohCoz)
 
 Email // cyberiancook@gmail.com 
 
