@@ -13,6 +13,8 @@ Checkout my:
 
 Want to get in touch? You can reach me via:
 twitter // @icook //
+
 Mastodon // ohCoz@infosec.exchange
+
 Email // cyberiancook@gmail.com 
 
