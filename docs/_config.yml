@@ -2,4 +2,4 @@ name: My Blog
 description: Writeups, reports and more. 
 url: ""
 markdow: GFM
-theme: slate
+theme:slate
