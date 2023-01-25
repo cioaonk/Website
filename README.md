@@ -1,2 +1,18 @@
-# Website
-Personal Website of Writeups and blogs. 
+# ohCoz's corner
+
+Welcome! I am a cybersecurity student first and foremoest. I am passionate in most things cybersecurity! Mainly I focus on Cyber Competitions, OSINT, General Research, Network Security and Threat Intelligence. 
+
+Checkout my: 
+<ol>
+  <li> [Presentations](github.com/cioaonk/Presentations) </li>
+  <li> Writeups </li>
+  <li> General Articles </li>
+  <li> Tools </li>
+</ol>
+
+
+Want to get in touch? You can reach me via:
+twitter // @icook //
+Mastodon // ohCoz@infosec.exchange
+Email // cyberiancook@gmail.com 
+
