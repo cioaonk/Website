@@ -71,14 +71,16 @@ code {
 
 @media only screen and (orientation: portrait) {
     .article-link {
-      display: block; }
-    .article-meta {
-      font-size: 38px;
-      color: #828282; }
+        display: block;
+    }
+    .article-date {
+        font-size: 38px;
+        color: #828282; 
+    }
       .article-sub {
         font-size: 28px;
         color: #000000;
-      }
+    }
 
     .menu-category {
       display: inline-block;
