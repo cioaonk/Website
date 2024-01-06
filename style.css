@@ -20,14 +20,14 @@ code {font-size: 120%;}
 @media only screen and (orientation: landscape) {
     .article-link {
       display: block;
-      font-size: 24px; }
+      font-size: 32px; }
 
     .article-meta {
-      font-size: 14px;
+      font-size: 18px;
       color: #7c6d6d; }
 
     .article-sub {
-      font-size: 14px;
+      font-size: 18px;
       color: #000000;
     }
 
@@ -44,10 +44,10 @@ code {font-size: 120%;}
     .article-link {
       display: block; }
     .article-meta {
-      font-size: 24px;
+      font-size: 32px;
       color: #828282; }
       .article-sub {
-        font-size: 14px;
+        font-size: 18px;
         color: #000000;
       }
 
