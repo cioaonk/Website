@@ -34,7 +34,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Upload a Build Artifact
+      - name: deployment
         uses: actions/upload-artifact@v4.6.0
         with:
           path: 
